@@ -1,0 +1,10 @@
+.DS_Store
+*.pyc
+*.datastore
+.idea/
+.sass-cache
+.vscode/*
+
+/src/lib/
+/venv/
+env/
